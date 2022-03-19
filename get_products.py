@@ -1,37 +1,42 @@
 import requests
 import json
+import argparse
+import configparser
 
-#TODO: upgrade the input to receive more than one user
+### Multiple seller_ids can be sent through CLI arguments
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument('seller_ids', metavar='N', type=int, nargs='+',
+                    help='an integer for the accumulator')
 
+args = parser.parse_args()
+seller_ids = args.seller_ids
+print(seller_ids)
 
-seller_id = input("Please enter the seller id: ")
+### Read config file
+config = configparser.ConfigParser()
+config.read('dev.ini')
+print(config['DEFAULT']['Host'])
 
-url = f'https://api.mercadolibre.com/sites/MLA/search?seller_id={seller_id}'
+### Iterate through all ids to call the API for each id
+for id in seller_ids:
+  url = f"{config['DEFAULT']['Host']}/search?seller_id={id}"
 
-# We call the API passing the user id provided
+  response_API = requests.get(url)
 
-response_API = requests.get(url)
+  results = response_API.json()["results"]
 
-# Pass the result to .json
+  ### Iterate through all item for each seller id 
+  output = []
+  for r in results:
+    output.append(
+      {
+        'id': r['catalog_product_id'],
+        'title': r['title'],
+        'category_id': r['category_id'],
+        'name': r['domain_id'],
+        'seller': id
+      }
+    )
 
-data = response_API.json()
-
-# Filter by just "results" attribute
-
-items = data["results"]
-
-# Here we iterate through all items from seller id
-
-output = []
-for i in items:
-  output.append(
-    {
-      'id': i['catalog_product_id'],
-      'title': i['title'],
-      'category_id': i['category_id'],
-      'name': i['domain_id']
-    }
-  )
-
-# TODO: Send to file
-print(json.dumps(output, indent=4))
+  # TODO: Send to file
+  print(json.dumps(output, indent=4))
