@@ -1,0 +1,352 @@
+[
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8793000",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Smart-ups Rc Src1ki-ar 1000va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16999018",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8044709",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1708",
+    "id": "MLA12403867",
+    "name": "MLA-NETWORK_SWITCHES",
+    "seller": 179571326,
+    "title": "Switch Linksys Se3008"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16999016",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Negra 15.6 , Amd Ryzen 5 3450u  12gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz Windows 10 Home"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16537306",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Plata 15.6 , Amd Ryzen 5 3450u  8gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 11 Home"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16999023",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16999017",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA8717184",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Router Linksys Wrt3200acm Azul Y Negro"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA18917635",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3502 Plata 15.55 , Intel Celeron N4020  4gb De Ram 128gb Ssd, Intel Uhd Graphics 600 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA1708",
+    "id": "MLA15543989",
+    "name": "MLA-NETWORK_SWITCHES",
+    "seller": 179571326,
+    "title": "Switch Linksys Se3005"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA16070970",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8044719",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA6352095",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Router Linksys Ea6350 Negro Y Plata 220v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA16172000",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Access Point, Router Linksys Max-stream Ea7450 Negro 100v/240v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA15962465",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Access Point, Router Linksys Mr8300 Negro 100v/240v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA16000237",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Sistema Wi-fi Mesh Linksys Velop Whw0301 Blanco 220v 3 Unidades"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8048469",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA17396381",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3501 Plata 15.6 , Intel Core I5 1135g7  8gb De Ram 256gb Ssd, Intel Iris Xe Graphics G7 80eus 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA16023687",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Easy Ups Bv1000i-ar 1000va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA18922919",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 5510 Blue 15.6 , Intel Core I5 11320h  8gb De Ram 256gb Ssd, Intel Iris Xe Graphics G7 96eus 60 Hz 1920x1080px Windows 11 Home"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA16068331",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v 2 Unidades"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA11425807",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Access Point, Repetidor, Router Linksys Max-stream Ea8300 Negro 100v/240v"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA16999021",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA16273476",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Router, Sistema Wi-fi Mesh Linksys Max-stream Mr6350 Negro 100v/240v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA18520269",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Sistema Wi-fi Mesh Linksys Velop Mx12600 Blanco 220v 3 Unidades"
+  },
+  {
+    "category_id": "MLA1708",
+    "id": "MLA14597809",
+    "name": "MLA-NETWORK_SWITCHES",
+    "seller": 179571326,
+    "title": "Switch Linksys Lgs124p"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA7972821",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA6315552",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Access Point, Repetidor Tp-link Pharos Cpe510 Blanco 100v/240v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA15952829",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Router Linksys Ea-series Ea6100 Negro 100v/240v"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA7912341",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Sistema Wi-fi Mesh Linksys Velop Whw0301 Blanco 220v"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA16054220",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Easy Ups Srv Srv1000 Srv1kil-ar 1000va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA18537348",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Sistema Wi-fi Mesh Linksys Velop Mx5300 Blanco 220v"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA16204896",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA17700223",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3501 Negra 15.6 , Intel Core I3 1005g1  4gb De Ram 1tb Hdd, Intel Uhd Graphics G1 60 Hz 1366x768px Linux Ubuntu"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8044721",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Smart-ups Smt2200i-ar 2200va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA16095168",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": " Apc Easy Ups Bv Bv800i-ar 800va Entrada Y Salida De 230v Negro"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA16139810",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Access Point, Router, Sistema Wi-fi Mesh Tp-link Deco X20 Blanco 220v 3 Unidades"
+  },
+  {
+    "category_id": "MLA1676",
+    "id": "MLA15590906",
+    "name": "MLA-PRINTERS",
+    "seller": 179571326,
+    "title": "Impresora Multifunci\u00f3n Lexmark Mb2546adwe Con Wifi Gris Y Blanca 220v"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA18922918",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 5510 I7 16gb 512gb W10h"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": null,
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": "Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 A\u00f1os"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": null,
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Latitude 3520 I7 32gb 256ssd 1tb Ubuntu"
+  },
+  {
+    "category_id": "MLA430901",
+    "id": "MLA15356710",
+    "name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS",
+    "seller": 179571326,
+    "title": "Router Linksys Ac1000 Doble Banda Wifi 5 Flex"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA18922918",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 15.6 Fhd I5 11g 16gb 256gb Letra \u00d1"
+  },
+  {
+    "category_id": "MLA1649",
+    "id": null,
+    "name": "MLA-DESKTOP_COMPUTERS",
+    "seller": 179571326,
+    "title": "Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": "MLA18917634",
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Inspiron 3502 Celeron 4gb 128ssd Windows"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": null,
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": "Ups Apc Br1200g Ar 1200va Estabilizador Br1200 Gtia 2 A\u00f1os"
+  },
+  {
+    "category_id": "MLA1652",
+    "id": null,
+    "name": "MLA-NOTEBOOKS",
+    "seller": 179571326,
+    "title": "Notebook Dell Latitude 3510 I3 15.6  16gb 500gb + 480ssd Win"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": "MLA8048468",
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": "Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 A\u00f1os Para Gamer Bx800 Para Tv, Play"
+  },
+  {
+    "category_id": "MLA1720",
+    "id": null,
+    "name": "MLA-STABILIZERS_AND_UPS",
+    "seller": 179571326,
+    "title": "Ups Apc Back Bx2200mi 2200va 4t Gamer"
+  }
+]
